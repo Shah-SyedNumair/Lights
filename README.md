@@ -1,11 +1,11 @@
-Interactive Light Control
+**Interactive Light Control**
 A simple web application demonstrating basic interactive design using HTML, CSS, and JavaScript. This project features five virtual lights that can be individually toggled on or off using corresponding buttons.
 
-Features
+**Features**
 Five Interactive Lights: Displayed as circular elements that change state between "on" and "off."
 Dynamic Control: Each light’s state updates in real-time based on button presses.
 
-Technologies Used
+**Technologies Used**
 HTML: Structures the page with elements for lights and buttons.
 CSS: Styles the lights and buttons, including animations for state transitions.
 JavaScript: Manages the logic for toggling light states and updating the UI dynamically.
